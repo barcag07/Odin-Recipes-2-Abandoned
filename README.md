@@ -1,1 +1,2 @@
 # odin-recipes
+This project will be for me to demonstrate my html skills that I have learned so far such as adding links, images, html boilerplate, and the different areas inside the head and body elements. I will also be a place where I can practice using got commit and using commit comments.
