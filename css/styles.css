@@ -1,0 +1,50 @@
+/* All Pages */
+
+.title {
+    font-family: Rockwell;
+}
+
+.head {
+    font-family: Rockwell;
+}
+
+/* Home Page */
+.home-title {
+    text-align: center;
+    font-family: Papyrus, 'Times New Roman', Times;
+    font-size: 48px;
+}
+
+.sanji {
+    height: auto;
+    width:600px;
+}
+
+.home-recipe-bullets {
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.top-bottom-recipes {
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Baked Ziti Page */
+
+
+
+/* Margherita Pizza Page */
+
+.pizza{
+    height: auto;
+    width: 400px;
+}
+
+/* Stuffed Bell Peppers Page */
+
+.bell-peppers {
+    height: auto;
+    width: 500px;
+}
